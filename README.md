@@ -4,6 +4,8 @@ http://geocoding.geo.census.gov/geocoder/geographies/address?street=4600+Silver+
 #RESOURCES TO GET DATA BY BLOCKS
 http://api.census.gov/data/2010/sf1.html
 
+This code retrieves 2010-2014 5-Year Census Data: https://www.census.gov/data/developers/data-sets/acs-5year.2014.html
+
 ## Configuration and Setup
 
 Setup virtual environment
@@ -18,18 +20,22 @@ Create a filed name key.ini as follows
 [key]
 value: YOUR_KEY
 ```
+Replace YOUR_KEY with the key that you get from http://api.census.gov/data/key_signup.html
 
 CSV 'addresses.csv' with fields ordered: id street city state zip
 
-Create a postgres database locally. (first time setup only)
+Create a postgres database locally (avoid names starting with 'census' or 'newcensus')
 ```
-$  sudo -u postgres createdb cenus
+$  sudo -u postgres createdb database1census
 ```
+Open models.py, and re-define correctly your engine variable (line 6): substitute with the name of the databse you just created after localhost/
 
 Add the tables to your database
 ```
 $ python models.py
 ```
+Note: you might be prompted to install psycopg2 beforehand
+
 
 ## Usage
 
@@ -42,10 +48,14 @@ Download query data for each address
 ```
 $ python download_geography.py
 ```
+Due to connection problems, not all entries might download (You will see 'Failed to Open' when the code is running). This can result in parsing errors in the next step. To avoid that, just repet the command until eveything is downloaded properly. 
+
 Parse results and import to DB
 ```
 $ python parse_geography.py
 ```
+You might get a KeyError BLOCK associated to a particular .json file. Open the specific .json file and you might see 'Layer query encountered an error: java.lang.RuntimeException: Failed to return' at the beginning. Delete this .json file and re-rerun the 'python download_geography.py' command again. Repeat until all .json files have downloaded correctly.
+
 Download and then parse block data
 ```
 $ python download_blkdata.py
