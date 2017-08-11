@@ -1,0 +1,9 @@
+venv
+.DS_Store
+*.pyc
+*~
+*.swp
+*.ini
+*.json
+*.csv
+!variables.csv
