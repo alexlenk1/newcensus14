@@ -48,13 +48,13 @@ Download query data for each address
 ```
 $ python download_geography.py
 ```
-Due to connection problems, not all entries might download (You will see 'Failed to Open' when the code is running). This can result in parsing errors in the next step. To avoid that, just repet the command until eveything is downloaded properly. 
+Due to connection problems, not all entries might download (You will see 'Failed to Open' while the code is running). This can result in parsing errors in the next step. To avoid that, just repeat the download command until eveything is downloaded properly. 
 
 Parse results and import to DB
 ```
 $ python parse_geography.py
 ```
-You might get a KeyError BLOCK associated to a particular .json file. Open the specific .json file and you might see 'Layer query encountered an error: java.lang.RuntimeException: Failed to return' at the beginning. Delete this .json file and re-rerun the 'python download_geography.py' command again. Repeat until all .json files have downloaded correctly.
+You might get a KeyError BLOCK associated to a particular .json file. Open the specific .json file and you might see 'Layer query encountered an error: java.lang.RuntimeException: Failed to return' at the beginning. Delete this .json file and re-run the 'python download_geography.py' command again. Repeat until all .json files have downloaded correctly.
 
 Download and then parse block data
 ```
