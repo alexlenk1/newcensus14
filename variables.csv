@@ -1,0 +1,175 @@
+variable_name,definition,Concept
+B02008_001E,Total:,B02008. White Alone Or In Combination With One Or More Other Races
+B02009_001E,Total:,B02009. Black Or African American Alone Or In Combination With One Or More Other Races
+B02010_001E,Total:,B02010. American Indian And Alaska Native Alone Or In Combination With One Or More Other Races
+B02011_001E,Total:,B02011. Asian Alone Or In Combination With One Or More Other Races
+B02012_001E,Total:,B02012. Native Hawaiian And Other Pacific Islander Alone Or In Combination With One Or More Other Races
+B02013_001E,Total:,B02013. Some Other Race Alone Or In Combination With One Or More Other Races
+B03002_001E,Total:,B03002. Hispanic or Latino by Race
+B03002_002E,Not Hispanic or Latino:,B03002. Hispanic or Latino by Race
+B03002_003E,Not Hispanic or Latino:!!White alone,B03002. Hispanic or Latino by Race
+B03002_004E,Not Hispanic or Latino:!!Black or African American alone,B03002. Hispanic or Latino by Race
+B03002_005E,Not Hispanic or Latino:!!American Indian and Alaska Native alone,B03002. Hispanic or Latino by Race
+B03002_006E,Not Hispanic or Latino:!!Asian alone,B03002. Hispanic or Latino by Race
+B03002_007E,Not Hispanic or Latino:!!Native Hawaiian and Other Pacific Islander alone,B03002. Hispanic or Latino by Race
+B03002_008E,Not Hispanic or Latino:!!Some other race alone,B03002. Hispanic or Latino by Race
+B03002_009E,Not Hispanic or Latino:!!Two or more races:,B03002. Hispanic or Latino by Race
+B03002_010E,Not Hispanic or Latino:!!Two or more races:!!Two races including Some other race,B03002. Hispanic or Latino by Race
+B03002_011E,"Not Hispanic or Latino:!!Two or more races:!!Two races excluding Some other race, and three or more races",B03002. Hispanic or Latino by Race
+B03002_012E,Hispanic or Latino:,B03002. Hispanic or Latino by Race
+B03002_013E,Hispanic or Latino:!!White alone,B03002. Hispanic or Latino by Race
+B03002_014E,Hispanic or Latino:!!Black or African American alone,B03002. Hispanic or Latino by Race
+B03002_015E,Hispanic or Latino:!!American Indian and Alaska Native alone,B03002. Hispanic or Latino by Race
+B03002_016E,Hispanic or Latino:!!Asian alone,B03002. Hispanic or Latino by Race
+B03002_017E,Hispanic or Latino:!!Native Hawaiian and Other Pacific Islander alone,B03002. Hispanic or Latino by Race
+B03002_018E,Hispanic or Latino:!!Some other race alone,B03002. Hispanic or Latino by Race
+B03002_019E,Hispanic or Latino:!!Two or more races:,B03002. Hispanic or Latino by Race
+B03002_020E,Hispanic or Latino:!!Two or more races:!!Two races including Some other race,B03002. Hispanic or Latino by Race
+B03002_021E,"Hispanic or Latino:!!Two or more races:!!Two races excluding Some other race, and three or more races",B03002. Hispanic or Latino by Race
+B09002_001E,Total:,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_002E,In married-couple families:,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_003E,In married-couple families:!!Under 3 years,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_004E,In married-couple families:!!3 and 4 years,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_005E,In married-couple families:!!5 years,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_006E,In married-couple families:!!6 to 11 years,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_007E,In married-couple families:!!12 to 17 years,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_008E,In other families:,B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_009E,"In other families:!!Male householder, no wife present:",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_010E,"In other families:!!Male householder, no wife present:!!Under 3 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_011E,"In other families:!!Male householder, no wife present:!!3 and 4 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_012E,"In other families:!!Male householder, no wife present:!!5 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_013E,"In other families:!!Male householder, no wife present:!!6 to 11 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_014E,"In other families:!!Male householder, no wife present:!!12 to 17 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_015E,"In other families:!!Female householder, no husband present:",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_016E,"In other families:!!Female householder, no husband present:!!Under 3 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_017E,"In other families:!!Female householder, no husband present:!!3 and 4 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_018E,"In other families:!!Female householder, no husband present:!!5 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_019E,"In other families:!!Female householder, no husband present:!!6 to 11 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B09002_020E,"In other families:!!Female householder, no husband present:!!12 to 17 years",B09002. OWN CHILDREN UNDER 18 YEARS BY FAMILY TYPE AND AGE
+B15003_001E,Total:,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_002E,No schooling completed,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_003E,Nursery school,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_004E,Kindergarten,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_005E,1st grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_006E,2nd grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_007E,3rd grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_008E,4th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_009E,5th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_010E,6th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_011E,7th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_012E,8th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_013E,9th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_014E,10th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_015E,11th grade,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_016E,"12th grade, no diploma",B15003. Educational Attainment for the Population 25 Years and Over
+B15003_017E,Regular high school diploma,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_018E,GED or alternative credential,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_019E,"Some college, less than 1 year",B15003. Educational Attainment for the Population 25 Years and Over
+B15003_020E,"Some college, 1 or more years, no degree",B15003. Educational Attainment for the Population 25 Years and Over
+B15003_021E,Associate's degree,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_022E,Bachelor's degree,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_023E,Master's degree,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_024E,Professional school degree,B15003. Educational Attainment for the Population 25 Years and Over
+B15003_025E,Doctorate degree,B15003. Educational Attainment for the Population 25 Years and Over
+B16002_001E,Total:,B16002. Household Language by Household Limited English Speaking Status
+B16002_002E,English only,B16002. Household Language by Household Limited English Speaking Status
+B16002_003E,Spanish:,B16002. Household Language by Household Limited English Speaking Status
+B16002_004E,Spanish:!!Limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_005E,Spanish:!!Not a limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_006E,Other Indo-European languages:,B16002. Household Language by Household Limited English Speaking Status
+B16002_007E,Other Indo-European languages:!!Limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_008E,Other Indo-European languages:!!Not a limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_009E,Asian and Pacific Island languages:,B16002. Household Language by Household Limited English Speaking Status
+B16002_010E,Asian and Pacific Island languages:!!Limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_011E,Asian and Pacific Island languages:!!Not a limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_012E,Other languages:,B16002. Household Language by Household Limited English Speaking Status
+B16002_013E,Other languages:!!Limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B16002_014E,Other languages:!!Not a limited English speaking household,B16002. Household Language by Household Limited English Speaking Status
+B19083_001E,Gini Index,B19083. Gini Index Of Income Inequality
+B23025_001E,Total:,B23025. Employment Status for the Population 16 Years and Over
+B23025_002E,In labor force:,B23025. Employment Status for the Population 16 Years and Over
+B23025_003E,In labor force:!!Civilian labor force:,B23025. Employment Status for the Population 16 Years and Over
+B23025_004E,In labor force:!!Civilian labor force:!!Employed,B23025. Employment Status for the Population 16 Years and Over
+B23025_005E,In labor force:!!Civilian labor force:!!Unemployed,B23025. Employment Status for the Population 16 Years and Over
+B23025_006E,In labor force:!!Armed Forces,B23025. Employment Status for the Population 16 Years and Over
+B23025_007E,Not in labor force,B23025. Employment Status for the Population 16 Years and Over
+B27010_001E,Total:,B27010. Types of Health Insurance Coverage by Age
+B27010_002E,Under 18 years:,B27010. Types of Health Insurance Coverage by Age
+B27010_003E,Under 18 years:!!With one type of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_004E,Under 18 years:!!With one type of health insurance coverage:!!With employer-based health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_005E,Under 18 years:!!With one type of health insurance coverage:!!With direct-purchase health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_006E,Under 18 years:!!With one type of health insurance coverage:!!With Medicare coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_007E,Under 18 years:!!With one type of health insurance coverage:!!With Medicaid/means-tested public coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_008E,Under 18 years:!!With one type of health insurance coverage:!!With TRICARE/military health coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_009E,Under 18 years:!!With one type of health insurance coverage:!!With VA Health Care only,B27010. Types of Health Insurance Coverage by Age
+B27010_010E,Under 18 years:!!With two or more types of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_011E,Under 18 years:!!With two or more types of health insurance coverage:!!With employer-based and direct-purchase coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_012E,Under 18 years:!!With two or more types of health insurance coverage:!!With employer-based and Medicare coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_013E,Under 18 years:!!With two or more types of health insurance coverage:!!With Medicare and Medicaid/means-tested public coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_014E,Under 18 years:!!With two or more types of health insurance coverage:!!Other private only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_015E,Under 18 years:!!With two or more types of health insurance coverage:!!Other public only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_016E,Under 18 years:!!With two or more types of health insurance coverage:!!Other coverage combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_017E,Under 18 years:!!No health insurance coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_018E,18 to 34 years:,B27010. Types of Health Insurance Coverage by Age
+B27010_019E,18 to 34 years:!!With one type of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_020E,18 to 34 years:!!With one type of health insurance coverage:!!With employer-based health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_021E,18 to 34 years:!!With one type of health insurance coverage:!!With direct-purchase health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_022E,18 to 34 years:!!With one type of health insurance coverage:!!With Medicare coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_023E,18 to 34 years:!!With one type of health insurance coverage:!!With Medicaid/means-tested public coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_024E,18 to 34 years:!!With one type of health insurance coverage:!!With TRICARE/military health coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_025E,18 to 34 years:!!With one type of health insurance coverage:!!With VA Health Care only,B27010. Types of Health Insurance Coverage by Age
+B27010_026E,18 to 34 years:!!With two or more types of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_027E,18 to 34 years:!!With two or more types of health insurance coverage:!!With employer-based and direct-purchase coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_028E,18 to 34 years:!!With two or more types of health insurance coverage:!!With employer-based and Medicare coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_029E,18 to 34 years:!!With two or more types of health insurance coverage:!!With Medicare and Medicaid/means-tested public coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_030E,18 to 34 years:!!With two or more types of health insurance coverage:!!Other private only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_031E,18 to 34 years:!!With two or more types of health insurance coverage:!!Other public only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_032E,18 to 34 years:!!With two or more types of health insurance coverage:!!Other coverage combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_033E,18 to 34 years:!!No health insurance coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_034E,35 to 64 years:,B27010. Types of Health Insurance Coverage by Age
+B27010_035E,35 to 64 years:!!With one type of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_036E,35 to 64 years:!!With one type of health insurance coverage:!!With employer-based health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_037E,35 to 64 years:!!With one type of health insurance coverage:!!With direct-purchase health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_038E,35 to 64 years:!!With one type of health insurance coverage:!!With Medicare coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_039E,35 to 64 years:!!With one type of health insurance coverage:!!With Medicaid/means-tested public coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_040E,35 to 64 years:!!With one type of health insurance coverage:!!With TRICARE/military health coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_041E,35 to 64 years:!!With one type of health insurance coverage:!!With VA Health Care only,B27010. Types of Health Insurance Coverage by Age
+B27010_042E,35 to 64 years:!!With two or more types of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_043E,35 to 64 years:!!With two or more types of health insurance coverage:!!With employer-based and direct-purchase coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_044E,35 to 64 years:!!With two or more types of health insurance coverage:!!With employer-based and Medicare coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_045E,35 to 64 years:!!With two or more types of health insurance coverage:!!With direct-purchase and Medicare coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_046E,35 to 64 years:!!With two or more types of health insurance coverage:!!With Medicare and Medicaid/means-tested public coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_047E,35 to 64 years:!!With two or more types of health insurance coverage:!!Other private only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_048E,35 to 64 years:!!With two or more types of health insurance coverage:!!Other public only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_049E,35 to 64 years:!!With two or more types of health insurance coverage:!!Other coverage combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_050E,35 to 64 years:!!No health insurance coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_051E,65 years and over:,B27010. Types of Health Insurance Coverage by Age
+B27010_052E,65 years and over:!!With one type of health insurance coverage:,B27010. Types of Health Insurance Coverage by Age
+B27010_053E,65 years and over:!!With one type of health insurance coverage:!!With employer-based health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_054E,65 years and over:!!With one type of health insurance coverage:!!With direct-purchase health insurance only,B27010. Types of Health Insurance Coverage by Age
+B27010_055E,65 years and over:!!With one type of health insurance coverage:!!With Medicare coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_056E,65 years and over:!!With one type of health insurance coverage:!!With TRICARE/military health coverage only,B27010. Types of Health Insurance Coverage by Age
+B27010_057E,65 years and over:!!With one type of health insurance coverage:!!With VA Health Care only,B27010. Types of Health Insurance Coverage by Age
+B27010_058E,65 years and over:!!With two or more types of health insurance coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_059E,65 years and over:!!With two or more types of health insurance coverage!!With employer-based and direct-purchase coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_060E,65 years and over:!!With two or more types of health insurance coverage!!With employer-based and Medicare coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_061E,65 years and over:!!With two or more types of health insurance coverage!!With direct-purchase and Medicare coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_062E,65 years and over:!!With two or more types of health insurance coverage!!With Medicare and Medicaid/means-tested public coverage,B27010. Types of Health Insurance Coverage by Age
+B27010_063E,65 years and over:!!With two or more types of health insurance coverage!!Other private only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_064E,65 years and over:!!With two or more types of health insurance coverage!!Other public only combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_065E,65 years and over:!!With two or more types of health insurance coverage!!Other coverage combinations,B27010. Types of Health Insurance Coverage by Age
+B27010_066E,65 years and over:!!No health insurance coverage,B27010. Types of Health Insurance Coverage by Age
+C15010_001E,Total:,C15010. Field of Bachelor's Degree for First Major for the Population 25 Years and Over
+C15010_002E,Science and Engineering,C15010. Field of Bachelor's Degree for First Major for the Population 25 Years and Over
+C15010_003E,Science and Engineering Related Fields,C15010. Field of Bachelor's Degree for First Major for the Population 25 Years and Over
+C15010_004E,Business,C15010. Field of Bachelor's Degree for First Major for the Population 25 Years and Over
+C15010_005E,Education,C15010. Field of Bachelor's Degree for First Major for the Population 25 Years and Over
+C15010_006E,"Arts, Humanities and Other",C15010. Field of Bachelor's Degree for First Major for the Population 25 Years and Over
+C17002_001E,Total:,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_002E,Under .50,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_003E,.50 to .99,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_004E,1.00 to 1.24,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_005E,1.25 to 1.49,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_006E,1.50 to 1.84,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_007E,1.85 to 1.99,C17002. Ratio of Income to Poverty Level in the Past 12 Months
+C17002_008E,2.00 and over,C17002. Ratio of Income to Poverty Level in the Past 12 Months
